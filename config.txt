@@ -3,4 +3,4 @@ prefix=3
 game=Forest | 3play
 stayinchannel=true
 songinstatus=false
-token=NDgxOTQ5OTgzMDUwOTU2ODAx.Dy0oWA.czLqwyaufFODnuk4cuWH9DIMtDg
+token=NTQxNDE0NDEwODA4MTk3MTIy.DzfIcw.2a-WoBNu1YQIGM-ZEiFwMFCJQwA
