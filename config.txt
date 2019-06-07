@@ -1,6 +1,6 @@
-owner=536879604229472276
-prefix=3
-game=Forest | 3play
+owner=468514598517997588
+prefix=3$
+game=DF_Team | 3$play
 stayinchannel=true
 songinstatus=false
-token=NTQxNDE0NDEwODA4MTk3MTIy.DzfIcw.2a-WoBNu1YQIGM-ZEiFwMFCJQwA
+token=NTg2NTU2ODA0MjEzNzY4MTky.XPp0mQ.ov4h2ytgBkq0B1zj9y_yKOQBGW0
