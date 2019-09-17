@@ -3,4 +3,4 @@ prefix=3$
 game=DF_Team | 3$play
 stayinchannel=true
 songinstatus=false
-token=NTg2NTU2ODA0MjEzNzY4MTky.XPp0mQ.ov4h2ytgBkq0B1zj9y_yKOQBGW0
+token="NTg2NTU2ODA0MjEzNzY4MTky.XPp0mQ.ov4h2ytgBkq0B1zj9y_yKOQBGW0"
